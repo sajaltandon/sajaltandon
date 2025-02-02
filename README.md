@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sajal Tandon</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajaltandon" alt="sajaltandon" /></a> </p>
 
-- 🔭 I’m currently working on **web development and AI**
+🚀 Passionate about **Machine Learning** & **Web Development**  
 
-- 👯 I’m looking to collaborate on **web development and AI projects**
+🤝 Open to collaborating on exciting ML & web projects  
 
-- 📫 How to reach me **sajaltandon1254@gmail.com**
+📧 Reach me at **sajaltandon1254@gmail.com**—let’s innovate together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
